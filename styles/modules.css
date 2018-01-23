@@ -1,6 +1,10 @@
 .site-header {
     background: #696969;
   }
+
+  .heading-group-li {
+      float: left;
+  }
   
   .heading-group-h1 {
     float: left;
