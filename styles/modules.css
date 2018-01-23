@@ -1,5 +1,5 @@
 .site-header {
-    background: #FFEAAA;
+    background: #696969;
   }
   
   .heading-group-h1 {
@@ -10,6 +10,14 @@
   .icon-menu {
     font-size: 3em;
     float: right;
+  }
+
+  .main {
+      background: #D3D3D3;
+  }
+
+  .my_books {
+
   }
   
   .main-nav {
