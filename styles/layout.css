@@ -1,9 +1,10 @@
 .heading-group-h1 {
-    max-width: 80%;
+    max-width: 100%;
+    color: #D3D3D3;
   }
   
   #filters select {
-    width: 90%;
+    width: 100%;
     margin: .2em 5%;
   }
   

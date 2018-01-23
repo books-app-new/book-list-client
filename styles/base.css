@@ -1,9 +1,9 @@
 
 
 
-img {
+/*img {
     max-width: 640px;
-  }
+  }*/
   
   body {
     line-height: 1.5;
@@ -14,7 +14,7 @@ img {
   }
   
   main {
-    
+    margin: 0 20px;
     background: #D3D3D3
   }
   
