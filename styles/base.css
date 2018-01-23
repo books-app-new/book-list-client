@@ -1,7 +1,4 @@
 
-page {
-    max-width: 640px;
-}
 
 
 img {
@@ -12,6 +9,7 @@ img {
     line-height: 1.5;
     font-size: 100%;
     color: #313131;
+    max-width: 640px;
   }
   
   main {
