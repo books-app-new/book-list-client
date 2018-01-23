@@ -1,0 +1,20 @@
+.heading-group-h1 {
+    max-width: 80%;
+  }
+  
+  #filters select {
+    width: 90%;
+    margin: .2em 5%;
+  }
+  
+  
+    #filters select {
+      width: 15em;
+      margin: .2em .2em;
+    }
+  
+    #filters li {
+      width: 20em;
+      display: inline;
+    }
+  

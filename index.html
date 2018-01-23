@@ -4,6 +4,23 @@
     <title>Book-list-client</title>
   </head>
   <body>
+      <header class="site-header clearfix">
+          <section class="heading-group-h1">
+            <h1>
+              Kilovolt Blog!
+            </h1>
+            <h2>The shocking power of static pages</h2>
+          </section>
+          <nav class="main-nav">
+            <div class="icon-menu"></div>
+            <ul>
+              <li class="tab" data-content="articles"><a href="#" class="icon-home"> Home</a></li>
+              <li class="tab" data-content="about"><a href="#" class="icon-address-book"> About</a></li>
+              <li><a href="http://twitter.com/brookr" target="_blank" class="icon-twitter3"> Twitter</a></li>
+              <li><a href="http://github.com/brookr" target="_blank" class="icon-github"> GitHub</a></li>
+            </ul>
+          </nav>
+        </header>
     <main>
       <form id="user-form">
         <input type="text" id="book_id" placeholder="book id" required>
@@ -17,6 +34,9 @@
 
       <section id="results"></section>
     </main>
+    <footer>
+        &copy; 2018 empty sky | Book List | Happy Reading!
+      </footer>
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="app.js"></script>
